@@ -4,6 +4,8 @@ System:
 
 Asus Notebook PC 16 GB Windows 11 Home Version 24H2, 2. Stata/SE 17.0 for Windows (64-bit x 86-64)
 
+Notes:
+
 The replication folder linked below includes all of the data files necessary to run the R-Script which will clean the data and run the analysis. The R-Script is titled Data_Cleaning_Aid. Make sure that when you download the files from the link, that you make whatever folder you put them in the working directory for R or else the code won't run. If you are hoping to see the specific tables that are created, then you will need to scroll back through the code after it is run, because the output is not created as separate files in the folder, but rather as lines of code in the terminal that can be put into an Overleaf document with the right packages to make a table. If you have any other problems, let me know. 
 
 https://liveutk-my.sharepoint.com/:f:/g/personal/kkuhlma4_vols_utk_edu/IgBhc-ya3jM8RK8zxFkilVN5AQr08y3p9RCY34XoxAYd0NQ?e=WXnkV2
